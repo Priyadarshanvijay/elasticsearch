@@ -85,6 +85,8 @@ include::{es-ref-dir}/rest-api/common-parms.asciidoc[tag=fielddata-fields]
 If `true`, statistics are *not* collected from closed indices.
 Defaults to `true`.
 
+include::{es-ref-dir}/rest-api/common-parms.asciidoc[tag=index-ignore-unavailable]
+
 include::{es-ref-dir}/rest-api/common-parms.asciidoc[tag=groups]
 
 include::{es-ref-dir}/rest-api/common-parms.asciidoc[tag=level]
